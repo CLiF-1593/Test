@@ -61,3 +61,16 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 
 {: .warning }
 > 와 이건 좀 개쩌는데? 여기다가 오류 예시 첨부 가능함
+
+## 그 외
+{: .note }
+> 첨부 내용
+
+{: .highlight }
+> 강조
+
+{: .important }
+> 중요
+
+{: .new }
+> 새로운 개념
