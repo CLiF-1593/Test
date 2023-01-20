@@ -27,3 +27,28 @@ nav_order: 2
 
 ㅁㄴㅇ리ㅏㅓㅁ니아;ㅓ리;ㅏ먼ㅇㄹ`이런식의 레이아웃도 가능`
 
+## 어쩌구 저쩌구 3
+
+asdfaslkdjflkjaslkdjflk;jalksdjf[링크!](google.com)
+
+## 다크모드 버튼
+<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
+
+<script>
+const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+
+jtd.addEvent(toggleDarkMode, 'click', function(){
+  if (jtd.getTheme() === 'dark') {
+    jtd.setTheme('light');
+    toggleDarkMode.textContent = 'Preview dark color scheme';
+  } else {
+    jtd.setTheme('dark');
+    toggleDarkMode.textContent = 'Return to the light side';
+  }
+});
+</script>
+
+## 오류 코드
+
+{: .warning }
+> 와 이건 좀 개쩌는데? 여기다가 오류 예시 첨부 가능함
