@@ -27,7 +27,3 @@ nav_order: 2
 
 ㅁㄴㅇ리ㅏㅓㅁ니아;ㅓ리;ㅏ먼ㅇㄹ`이런식의 레이아웃도 가능`
 
-## 어쩌구 저쩌구 3
-
-asdfaslkdjflkjaslkdjflk;jalksdjf[링크!]({% google.com %}#external-navigation-links)
-
