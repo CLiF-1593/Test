@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 제목
+title: Configuration
 nav_order: 2
 ---
 
