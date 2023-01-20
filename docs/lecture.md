@@ -64,8 +64,6 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 
 ## 표도 넣기 가능
 
-## Table
-
 | Color value    | Font color utility   | Background color utility |
 |:---------------|:---------------------|:-------------------------|
 | <span class="d-inline-block p-2 mr-1 v-align-middle bg-grey-lt-000"></span> `grey-lt-000` | `.text-grey-lt-000` | `.bg-grey-lt-000` |
