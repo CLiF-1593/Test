@@ -64,6 +64,8 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 
 ## 그 외
 
+> 일반적인 내용
+
 {: .note }
 > 첨부 내용
 
