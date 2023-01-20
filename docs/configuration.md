@@ -29,7 +29,7 @@ nav_order: 2
 
 ## 어쩌구 저쩌구 3
 
-asdfaslkdjflkjaslkdjflk;jalksdjf[링크!](http://www.google.co.kr)
+asdfaslkdjflkjaslkdjflk;jalksdjf[링크!](http://www.google.com)
 
 ## 다크모드 버튼
 <button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
